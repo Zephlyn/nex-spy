@@ -8,7 +8,7 @@ const fs = require('fs');
 const bot = new Discord.Client();
 
 const prefix = "!";
-const token = "NzIyOTYwNzEzMjczOTY2NzAz.XuqsGA.iBPij4EUAP0ohkYTyZMrHfaKyzM";
+const token = "[REDACTED]";
 
 const baseURL = "https://api.nexusmods.com";
 const modInfo = "/v1/games/bladeandsorcery/mods/";
