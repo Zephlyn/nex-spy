@@ -16,7 +16,7 @@ const modInfo = "/v1/games/bladeandsorcery/mods/";
 const nexusStatsAPI = "https://staticstats.nexusmods.com/live_download_counts/mods/2673.csv";
 const nexusSearchAPI = "https://search.nexusmods.com/mods";
 
-const apikey = "Vnd4YnpaN25ZZmVJVUlDMzFnZDROS0J4bndza2pncUhjMFExcEZoTHA1ajVRV0dNVUNqL2xvZkJaUmZhb2VhYy0tZlI4ZHRlLzRDWm5YN2cxQm5DTnJjUT09--becdaa0387f00aa1ada251ce73c1168eb8d836ce";
+const apikey = "not real";
 
 const version = "3.6.2";
 
