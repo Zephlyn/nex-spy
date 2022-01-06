@@ -1,3 +1,0 @@
-D:\Repos\NexSpy\obj\Debug\NexSpy.njsprojAssemblyReference.cache
-D:\Repos\NexSpy\obj\Debug\NexSpy.njsproj.CoreCompileInputs.cache
-D:\Repos\NexSpy\bin\Microsoft.NodejsTools.WebRole.dll
